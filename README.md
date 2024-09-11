@@ -58,7 +58,7 @@
 </a>  
 </a>
 <a href="https://www.fiverr.com/codecraft_ia" target="_blank">
-<img src=https://img.shields.io/badge/Fiverr-1DBF73?logo=fiverr&logoColor=fff style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Fiverr-1DBF73?logo=fiverr&logoColor=fff style="margin-bottom: 5px;" width="95.5" height="28"/>
 </a>  
 </div>  
   
