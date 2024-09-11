@@ -12,9 +12,7 @@
 
 - ⚡ Fun fact: I hate iFrames  
   
-
 <br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -47,7 +45,6 @@
 
 <br/>  
 
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/CodeCraftIA" target="_blank">
@@ -61,24 +58,19 @@
 </a>  
 </div>  
   
-
 <br/>  
-
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=CodeCraftIA&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
-
 ## Visitor Counter  
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=CodeCraftIA&&style=flat-square" align="center" />
 </div>  
-  
 
 <br/>  
-
 
 ## Support Me  
 <div align="center">
