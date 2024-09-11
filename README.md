@@ -1,9 +1,4 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">I'm IA, a Python Developer 👨‍💻 and a Web Scraping Specialist 🚀</div>  
+### <div align="left">I'm IA, a Python Developer 👨‍💻 and a Web Scraping Specialist 🚀</div>  
   
 
 - ✔️ Beautiful soup, Requests, Pandas and Regex expert  
