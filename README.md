@@ -16,7 +16,6 @@
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://jupyter.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" height="50" /></a>
@@ -86,5 +85,3 @@
                 />
             </a></div>
 <br />
-----
-
